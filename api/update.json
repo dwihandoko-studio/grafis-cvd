@@ -12,6 +12,7 @@
             "jumlah_meninggal": 1092,
             "jumlah_sembuh": 27903,
             "jumlah_dirawat": 22957,
+            "jumlah_suspek": 0,
             "tanggal": "2021-07-17",
             "created": "2021-07-17 16:19:07"
         },
@@ -339,7 +340,8 @@
             "jumlah_positif": 2832755,
             "jumlah_dirawat": 527872,
             "jumlah_sembuh": 2232394,
-            "jumlah_meninggal": 72489
+            "jumlah_meninggal": 72489,
+            "jumlah_suspek": 0
         }
     }
 }
