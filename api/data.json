@@ -1,0 +1,651 @@
+{
+    "last_update": "2021-07-16",
+    "kasus": {
+        "kondisi_penyerta": {
+            "current_data": 4880,
+            "missing_data": 99.82451042724519,
+            "list_data": [{
+                    "key": "HIPERTENSI",
+                    "doc_count": 50.36885245901639
+                },
+                {
+                    "key": "DIABETES MELITUS",
+                    "doc_count": 37.786885245901644
+                },
+                {
+                    "key": "PENYAKIT JANTUNG",
+                    "doc_count": 17.028688524590162
+                },
+                {
+                    "key": "HAMIL",
+                    "doc_count": 9.672131147540984
+                },
+                {
+                    "key": "PENYAKIT PARU OBSTRUKTIF KRONIS",
+                    "doc_count": 5.450819672131148
+                },
+                {
+                    "key": "PENYAKIT GINJAL",
+                    "doc_count": 4.836065573770492
+                },
+                {
+                    "key": "GANGGUAN NAPAS LAIN",
+                    "doc_count": 1.8442622950819672
+                },
+                {
+                    "key": "KANKER",
+                    "doc_count": 1.762295081967213
+                },
+                {
+                    "key": "GANGGUAN IMUN",
+                    "doc_count": 1.5163934426229508
+                },
+                {
+                    "key": "ASMA",
+                    "doc_count": 0.9426229508196722
+                },
+                {
+                    "key": "PENYAKIT HATI",
+                    "doc_count": 0.5737704918032787
+                },
+                {
+                    "key": "TBC",
+                    "doc_count": 0.5737704918032787
+                }
+            ]
+        },
+        "jenis_kelamin": {
+            "current_data": 2727852,
+            "missing_data": 1.9037741765655198,
+            "list_data": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 48.69597030923965
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 51.304029690760345
+                }
+            ]
+        },
+        "kelompok_umur": {
+            "current_data": 2738537,
+            "missing_data": 1.5195311263841376,
+            "list_data": [{
+                    "key": "0-5",
+                    "doc_count": 2.9569437988239704,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 9.858694624173419,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 25.119178597915603,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 28.98587822622079,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 21.952451254082014,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 11.126853498784204,
+                    "usia": {
+                        "value": 9783561644.0
+                    }
+                }
+            ]
+        },
+        "gejala": {
+            "current_data": 20184,
+            "missing_data": 99.27416361957313,
+            "list_data": [{
+                    "key": "BATUK",
+                    "doc_count": 63.32738803012287
+                },
+                {
+                    "key": "RIWAYAT DEMAM",
+                    "doc_count": 43.29667063020214
+                },
+                {
+                    "key": "DEMAM",
+                    "doc_count": 38.1440745144669
+                },
+                {
+                    "key": "PILEK",
+                    "doc_count": 35.70650019817677
+                },
+                {
+                    "key": "LEMAS",
+                    "doc_count": 26.010701545778836
+                },
+                {
+                    "key": "SESAK NAPAS",
+                    "doc_count": 23.607808164883075
+                },
+                {
+                    "key": "SAKIT KEPALA",
+                    "doc_count": 23.033095521204917
+                },
+                {
+                    "key": "SAKIT TENGGOROKAN",
+                    "doc_count": 23.02318668252081
+                },
+                {
+                    "key": "KERAM OTOT",
+                    "doc_count": 14.883075703527545
+                },
+                {
+                    "key": "MUAL",
+                    "doc_count": 12.430638129211257
+                },
+                {
+                    "key": "SAKIT PERUT",
+                    "doc_count": 5.548949663099485
+                },
+                {
+                    "key": "DIARE",
+                    "doc_count": 5.306183115338882
+                },
+                {
+                    "key": "MENGGIGIL",
+                    "doc_count": 1.8579072532699168
+                },
+                {
+                    "key": "LAIN-LAIN",
+                    "doc_count": 0.03963535473642489
+                }
+            ]
+        }
+    },
+    "sembuh": {
+        "kondisi_penyerta": {
+            "list_data": [{
+                    "key": "HIPERTENSI",
+                    "doc_count": 40.614754098360656
+                },
+                {
+                    "key": "DIABETES MELITUS",
+                    "doc_count": 27.581967213114755
+                },
+                {
+                    "key": "PENYAKIT JANTUNG",
+                    "doc_count": 11.721311475409836
+                },
+                {
+                    "key": "HAMIL",
+                    "doc_count": 9.426229508196721
+                },
+                {
+                    "key": "PENYAKIT PARU OBSTRUKTIF KRONIS",
+                    "doc_count": 3.995901639344263
+                },
+                {
+                    "key": "PENYAKIT GINJAL",
+                    "doc_count": 2.5614754098360657
+                },
+                {
+                    "key": "GANGGUAN NAPAS LAIN",
+                    "doc_count": 1.3114754098360655
+                },
+                {
+                    "key": "KANKER",
+                    "doc_count": 1.2295081967213115
+                },
+                {
+                    "key": "GANGGUAN IMUN",
+                    "doc_count": 1.168032786885246
+                },
+                {
+                    "key": "ASMA",
+                    "doc_count": 0.778688524590164
+                },
+                {
+                    "key": "PENYAKIT HATI",
+                    "doc_count": 0.4098360655737705
+                },
+                {
+                    "key": "TBC",
+                    "doc_count": 0.389344262295082
+                }
+            ]
+        },
+        "jenis_kelamin": {
+            "list_data": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 48.39182968929804
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 51.608170310701965
+                }
+            ]
+        },
+        "kelompok_umur": {
+            "list_data": [{
+                    "key": "0-5",
+                    "doc_count": 3.0449909098547514,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 10.12948724932851,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 25.571792757614904,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 29.538955588938926,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 21.736434724077853,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 9.978338770185061,
+                    "usia": {
+                        "value": 9783561644.0
+                    }
+                }
+            ]
+        },
+        "gejala": {
+            "list_data": [{
+                    "key": "BATUK",
+                    "doc_count": 57.53567181926278
+                },
+                {
+                    "key": "RIWAYAT DEMAM",
+                    "doc_count": 39.15973047958779
+                },
+                {
+                    "key": "DEMAM",
+                    "doc_count": 33.73959571938169
+                },
+                {
+                    "key": "PILEK",
+                    "doc_count": 33.44728497820056
+                },
+                {
+                    "key": "LEMAS",
+                    "doc_count": 22.438565200158543
+                },
+                {
+                    "key": "SAKIT TENGGOROKAN",
+                    "doc_count": 20.967102655568766
+                },
+                {
+                    "key": "SAKIT KEPALA",
+                    "doc_count": 20.882877526753866
+                },
+                {
+                    "key": "SESAK NAPAS",
+                    "doc_count": 18.514665081252478
+                },
+                {
+                    "key": "KERAM OTOT",
+                    "doc_count": 13.431430836305985
+                },
+                {
+                    "key": "MUAL",
+                    "doc_count": 10.869996036464526
+                },
+                {
+                    "key": "SAKIT PERUT",
+                    "doc_count": 4.69678953626635
+                },
+                {
+                    "key": "DIARE",
+                    "doc_count": 4.667063020214031
+                },
+                {
+                    "key": "MENGGIGIL",
+                    "doc_count": 1.5259611573523584
+                },
+                {
+                    "key": "LAIN-LAIN",
+                    "doc_count": 0.03468093539437178
+                }
+            ]
+        }
+    },
+    "meninggal": {
+        "kondisi_penyerta": {
+            "list_data": [{
+                    "key": "DIABETES MELITUS",
+                    "doc_count": 10.0
+                },
+                {
+                    "key": "HIPERTENSI",
+                    "doc_count": 9.508196721311474
+                },
+                {
+                    "key": "PENYAKIT JANTUNG",
+                    "doc_count": 5.163934426229509
+                },
+                {
+                    "key": "PENYAKIT GINJAL",
+                    "doc_count": 2.2540983606557377
+                },
+                {
+                    "key": "PENYAKIT PARU OBSTRUKTIF KRONIS",
+                    "doc_count": 1.4344262295081966
+                },
+                {
+                    "key": "GANGGUAN NAPAS LAIN",
+                    "doc_count": 0.5327868852459016
+                },
+                {
+                    "key": "KANKER",
+                    "doc_count": 0.5327868852459016
+                },
+                {
+                    "key": "GANGGUAN IMUN",
+                    "doc_count": 0.3483606557377049
+                },
+                {
+                    "key": "TBC",
+                    "doc_count": 0.18442622950819673
+                },
+                {
+                    "key": "ASMA",
+                    "doc_count": 0.16393442622950818
+                },
+                {
+                    "key": "HAMIL",
+                    "doc_count": 0.16393442622950818
+                },
+                {
+                    "key": "PENYAKIT HATI",
+                    "doc_count": 0.16393442622950818
+                }
+            ]
+        },
+        "jenis_kelamin": {
+            "list_data": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 54.189534783483225
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 45.81046521651677
+                }
+            ]
+        },
+        "kelompok_umur": {
+            "list_data": [{
+                    "key": "0-5",
+                    "doc_count": 0.5188177758877313,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 0.5684314976256291,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 2.7245020908639876,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 11.840669076476008,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 35.49223899638528,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 48.855340562761356,
+                    "usia": {
+                        "value": 2021.0
+                    }
+                }
+            ]
+        },
+        "gejala": {
+            "list_data": [{
+                    "key": "BATUK",
+                    "doc_count": 4.959373761395165
+                },
+                {
+                    "key": "SESAK NAPAS",
+                    "doc_count": 4.914783987316686
+                },
+                {
+                    "key": "DEMAM",
+                    "doc_count": 3.8149028933808955
+                },
+                {
+                    "key": "RIWAYAT DEMAM",
+                    "doc_count": 3.71086008719778
+                },
+                {
+                    "key": "LEMAS",
+                    "doc_count": 3.2451446690447883
+                },
+                {
+                    "key": "SAKIT KEPALA",
+                    "doc_count": 1.8182718985334918
+                },
+                {
+                    "key": "SAKIT TENGGOROKAN",
+                    "doc_count": 1.7885453824811732
+                },
+                {
+                    "key": "PILEK",
+                    "doc_count": 1.511097899326199
+                },
+                {
+                    "key": "MUAL",
+                    "doc_count": 1.4417360285374554
+                },
+                {
+                    "key": "KERAM OTOT",
+                    "doc_count": 1.243559254855331
+                },
+                {
+                    "key": "SAKIT PERUT",
+                    "doc_count": 0.8224336107808166
+                },
+                {
+                    "key": "DIARE",
+                    "doc_count": 0.5994847403884265
+                },
+                {
+                    "key": "MENGGIGIL",
+                    "doc_count": 0.33194609591755847
+                },
+                {
+                    "key": "LAIN-LAIN",
+                    "doc_count": 0.004954419342053111
+                }
+            ]
+        }
+    },
+    "perawatan": {
+        "kondisi_penyerta": {
+            "list_data": [{
+                    "key": "HIPERTENSI",
+                    "doc_count": 0.24590163934426232
+                },
+                {
+                    "key": "DIABETES MELITUS",
+                    "doc_count": 0.20491803278688525
+                },
+                {
+                    "key": "PENYAKIT JANTUNG",
+                    "doc_count": 0.14344262295081966
+                },
+                {
+                    "key": "HAMIL",
+                    "doc_count": 0.08196721311475409
+                },
+                {
+                    "key": "PENYAKIT GINJAL",
+                    "doc_count": 0.020491803278688523
+                },
+                {
+                    "key": "PENYAKIT PARU OBSTRUKTIF KRONIS",
+                    "doc_count": 0.020491803278688523
+                }
+            ]
+        },
+        "jenis_kelamin": {
+            "list_data": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 49.238765329040206
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 50.76123467095979
+                }
+            ]
+        },
+        "kelompok_umur": {
+            "list_data": [{
+                    "key": "0-5",
+                    "doc_count": 2.9196469486561334,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 9.99581598294515,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 26.31348249686199,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 29.008786435815185,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 20.98165009663087,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 10.780618039090674,
+                    "usia": {
+                        "value": 4972328767.0
+                    }
+                }
+            ]
+        },
+        "gejala": {
+            "list_data": [{
+                    "key": "BATUK",
+                    "doc_count": 0.8323424494649228
+                },
+                {
+                    "key": "PILEK",
+                    "doc_count": 0.7481173206500198
+                },
+                {
+                    "key": "DEMAM",
+                    "doc_count": 0.5895759017043203
+                },
+                {
+                    "key": "RIWAYAT DEMAM",
+                    "doc_count": 0.4260800634165676
+                },
+                {
+                    "key": "SAKIT KEPALA",
+                    "doc_count": 0.33194609591755847
+                },
+                {
+                    "key": "LEMAS",
+                    "doc_count": 0.3269916765755053
+                },
+                {
+                    "key": "SAKIT TENGGOROKAN",
+                    "doc_count": 0.267538644470868
+                },
+                {
+                    "key": "KERAM OTOT",
+                    "doc_count": 0.2080856123662307
+                },
+                {
+                    "key": "SESAK NAPAS",
+                    "doc_count": 0.178359096313912
+                },
+                {
+                    "key": "MUAL",
+                    "doc_count": 0.11890606420927466
+                },
+                {
+                    "key": "DIARE",
+                    "doc_count": 0.03963535473642489
+                },
+                {
+                    "key": "SAKIT PERUT",
+                    "doc_count": 0.029726516052318665
+                }
+            ]
+        }
+    }
+}

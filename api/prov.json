@@ -1,0 +1,145 @@
+{
+    "last_date": "2021-07-16",
+    "current_data": 100.0,
+    "missing_data": 0.0,
+    "tanpa_provinsi": 0,
+    "list_data": [{
+            "key": "PUNGGUR",
+            "doc_count": 26.143990632884446,
+            "jumlah_kasus": 727010,
+            "jumlah_sembuh": 604098,
+            "jumlah_meninggal": 9955,
+            "jumlah_dirawat": 112957,
+            "jenis_kelamin": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 355099
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 361270
+                }
+            ],
+            "kelompok_umur": [{
+                    "key": "0-5",
+                    "doc_count": 23578,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 68268,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 192664,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 211599,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 144258,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 72688,
+                    "usia": {
+                        "value": 36583.0
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 106.83611829006928,
+                "lat": -6.204698991169558
+            },
+            "penambahan": {
+                "positif": 12415,
+                "sembuh": 8448,
+                "meninggal": 132
+            }
+        },
+        {
+            "key": "GUNUNG SUGIH",
+            "doc_count": 26.143990632884446,
+            "jumlah_kasus": 727010,
+            "jumlah_sembuh": 604098,
+            "jumlah_meninggal": 9955,
+            "jumlah_dirawat": 112957,
+            "jenis_kelamin": [{
+                    "key": "LAKI-LAKI",
+                    "doc_count": 355099
+                },
+                {
+                    "key": "PEREMPUAN",
+                    "doc_count": 361270
+                }
+            ],
+            "kelompok_umur": [{
+                    "key": "0-5",
+                    "doc_count": 23578,
+                    "usia": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "key": "6-18",
+                    "doc_count": 68268,
+                    "usia": {
+                        "value": 18.0
+                    }
+                },
+                {
+                    "key": "19-30",
+                    "doc_count": 192664,
+                    "usia": {
+                        "value": 30.0
+                    }
+                },
+                {
+                    "key": "31-45",
+                    "doc_count": 211599,
+                    "usia": {
+                        "value": 45.0
+                    }
+                },
+                {
+                    "key": "46-59",
+                    "doc_count": 144258,
+                    "usia": {
+                        "value": 59.0
+                    }
+                },
+                {
+                    "key": "\u2265 60",
+                    "doc_count": 72688,
+                    "usia": {
+                        "value": 36583.0
+                    }
+                }
+            ],
+            "lokasi": {
+                "lon": 106.83611829006928,
+                "lat": -6.204698991169558
+            },
+            "penambahan": {
+                "positif": 12415,
+                "sembuh": 8448,
+                "meninggal": 132
+            }
+        }
+    ]
+}
